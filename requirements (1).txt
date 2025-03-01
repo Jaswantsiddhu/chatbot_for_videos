@@ -7,3 +7,9 @@ faiss-cpu
 altair
 tiktoken
 pathlib
+python-dotenv
+langchain
+streamlit
+faiss-cpu
+youtube-transcript-api
+openai
